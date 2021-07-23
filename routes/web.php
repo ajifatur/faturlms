@@ -11,6 +11,7 @@
 |
 */
 
-Route::get('/test', function(){
-    return 'Hello World!';
-});
+// Namespace Prefix
+$namespacePrefix = "\\Ajifatur\\FaturLMS\\Http\\Controllers\\";
+
+Route::get('/admin', $namespacePrefix.'DashboardController@admin');
