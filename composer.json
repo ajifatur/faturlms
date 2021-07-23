@@ -1,0 +1,14 @@
+{
+    "name": "ajifatur/faturlms",
+    "description": "Coolest Learning Management System",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ajifatur",
+            "email": "ajifatur2@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
